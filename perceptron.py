@@ -27,7 +27,7 @@ W = np.linalg.solve(A,b)
 
 # plot the two points and the line connecting them
 
-plt.plot([point_1[0],point_2[0]],[point_1[1],point_2[0]],'ro')
+plt.plot([point_1[0],point_2[0]],[point_1[1],point_2[1]],'ro')
 
 
 
